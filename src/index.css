@@ -18,9 +18,7 @@ code {
 
 .k-card-image {
   border-radius: 8px;
-  width: 250px;
-  height: 320px;
-  /* image-resolution: auto; */
+  width: 350px;
   box-shadow: 0px 0px 1px slategrey;
 
 }
