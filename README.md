@@ -1,5 +1,5 @@
 # React Portfolio
-Upgrading our first portfolio project with this application that has React incorporated.
+I am upgrading our first portfolio project with this React incorporated application. It has some information about me as well as projects I worked on during my time in this bootcamp.
 
 ## Technologies
 * Axios
@@ -12,4 +12,4 @@ Upgrading our first portfolio project with this application that has React incor
 * React
 
 ## URL
-* Github: https://kar3n33.github.io/reactportfolio/
+* Deployed Link: https://kar3n33.github.io/reactportfolio/
