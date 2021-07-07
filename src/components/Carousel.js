@@ -20,24 +20,30 @@ class Carousel extends React.Component {
                     id: 0,
                     title: 'Eat Da Burger',
                     subTitle: 'An App For Devouring Burgers',
+                    text: 'MySQL, Node.js, Express, Handlebars',
                     imgSrc: burger,
                     link: 'https://eat-burgerapp.herokuapp.com/',
+                    link1: 'https://github.com/Kar3n33/Burger',
                     selected: false
                 },
                 {
                     id: 1,
                     title: 'Fitness Tracker',
                     subTitle: 'Track Workout Routines',
+                    text: 'Express, MongoDB, Mongoose, Javascript, AJAX',
                     imgSrc: fitness,
                     link: 'https://powerful-retreat-39538.herokuapp.com/',
+                    link1: 'https://github.com/Kar3n33/WorkoutTracker',
                     selected: false
                 },
                 {
                     id: 2,
-                    title: 'Work Scheduler',
+                    title: 'Work Day Scheduler',
                     subTitle: 'Keep An Online Schedule For The Workday',
+                    text: 'Javascript, jQuery, Moment.js',
                     imgSrc: scheduler,
                     link: 'https://kar3n33.github.io/WorkDayScheduler/',
+                    link1: 'https://github.com/Kar3n33/WorkDayScheduler',
                     selected: false
                 },
 
@@ -45,8 +51,10 @@ class Carousel extends React.Component {
                     id: 3,
                     title: 'Creeper Crew',
                     subTitle: 'Finding People To Accompany You To Visit Creepy Places',
+                    text: 'Cheerio, Bootstrap, Express, Javascript, jQuery, Atlas-Obscura API, Axios',
                     imgSrc: creeper,
                     link: 'https://powerful-shelf-96564.herokuapp.com/',
+                    link1: 'https://github.com/Kar3n33/creeper-crew',
                     selected: false
                 },
 
@@ -54,8 +62,10 @@ class Carousel extends React.Component {
                     id: 4,
                     title: 'Weather App',
                     subTitle: 'Get Weather Information & Plan A Trip',
+                    text: 'Javascript, jQuery, AJAX, Openweathermap API',
                     imgSrc: weather,
                     link: 'https://kar3n33.github.io/WeatherApp/',
+                    link1: 'https://github.com/Kar3n33/WeatherApp',
                     selected: false
                 },
 

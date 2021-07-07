@@ -9,7 +9,7 @@ function AboutPage(props) {
             <Jumbo title={props.title} subTitle={props.subTitle} text={props.text} />
 
             <Content>
-                <p>I'm a full stack developer with experience in Express JS, Node JS, Oracle SQL, MongoDB, and React.</p>
+                <p>I have recently earned a Certificate in Full Stack Web Development from Southern Methodist University. High work ethic and very passionate about making a positive contribution, my motivation is earning a vital role that will assist a company's long and short-term goals by applying technical skills in MySQL, MongoDB, Express, React, Node, JavaScript, among other tools to a future technical position.</p>
 
                 <p>In my free time I love to cook, always looking for new recipe ideas. I also really enjoy jogging, going to the trails is one of my favorite activites.</p>
 
