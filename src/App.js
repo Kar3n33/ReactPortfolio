@@ -40,7 +40,8 @@ class App extends React.Component {
 
       contact: {
         title: 'Let\'s Connect',
-        subTitle: ''
+        subTitle: 'Email me directly at Kar3n.acosta@gmail.com',
+        text: 'or fill out the form below and I will reach out to you '
       }
     }
   }

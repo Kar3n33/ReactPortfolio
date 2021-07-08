@@ -70,7 +70,7 @@ class ContactPage extends React.Component {
     render() {
         return (
             <div>
-                <Jumbo title={this.props.title} />
+                <Jumbo title={this.props.title} subTitle={this.props.subTitle} text={this.props.text} />
 
                 <Content>
                     <Form onSubmit={this.handleSubmit}>
